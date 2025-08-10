@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/untitled" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_25_PREVIEW" project-jdk-name="openjdk-ea-25" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="openjdk-ea-25" project-jdk-type="JavaSDK">
+>>>>>>> a4341f6 (commit 2)
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

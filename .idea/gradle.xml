@@ -3,6 +3,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+<<<<<<< HEAD
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/untitled" />
@@ -12,6 +13,10 @@
             <option value="$PROJECT_DIR$/untitled" />
           </set>
         </option>
+=======
+        <option name="externalProjectPath" value="$PROJECT_DIR$/untitled" />
+        <option name="gradleHome" value="" />
+>>>>>>> a4341f6 (commit 2)
       </GradleProjectSettings>
     </option>
   </component>
